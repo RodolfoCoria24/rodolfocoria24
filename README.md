@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hola, soy Rodolfo Coria
 
-<!--
-**RodolfoCoria24/rodolfocoria24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Ingeniería de Sistemas  
+🚀 Frontend Developer en formación  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías
+- HTML5
+- CSS3
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos
+### 🔹 Freelancer Landing Page
+👉 https://freelancer-rodolfocoria.netlify.app/  
+
+## 📈 Actualmente
+- Aprendiendo JavaScript  
+- Construyendo proyectos para mi portafolio  
+
+## 🎯 Objetivo
+Conseguir prácticas como desarrollador frontend y seguir creciendo profesionalmente.
+
+## 📫 Contacto
+- GitHub: https://github.com/RodolfoCoria24
