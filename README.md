@@ -56,12 +56,5 @@ Desarrollarme en el área tecnológica, combinando desarrollo y análisis de dat
 
 ---
 
-## 📊 GitHub Stats
-![Rodolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodolfoCoria24&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoCoria24&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contacto
 - GitHub: https://github.com/RodolfoCoria24
