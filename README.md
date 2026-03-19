@@ -1,5 +1,8 @@
 # 👋 Hola, soy Rodolfo Coria
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodolfo_Coria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfo-coria-117961244/)
+[![GitHub](https://img.shields.io/badge/GitHub-Rodolfo-black?style=for-the-badge&logo=github)](https://github.com/RodolfoCoria24)
+
 💻 Estudiante de Ingeniería de Sistemas  
 🎓 Bachiller en Negocios Internacionales  
 🌱 Explorando el mundo del desarrollo y la tecnología  
