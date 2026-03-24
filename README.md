@@ -39,6 +39,7 @@ Me caracterizo por mi capacidad analítica, adaptación a entornos digitales y e
 ---
 
 ## 📂 Proyectos
+🔹 FrontEnd Store  
 🔹 Freelancer Landing Page  
 🔹 Hello Git  
 
