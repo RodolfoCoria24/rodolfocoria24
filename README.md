@@ -25,6 +25,7 @@ Me caracterizo por mi capacidad analítica, adaptación a entornos digitales y e
 - HTML
 - CSS
 - Git & GitHub
+- SQL
 - (aprendiendo) JavaScript
 
 ### 📊 Data & Análisis
